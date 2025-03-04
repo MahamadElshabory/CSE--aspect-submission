@@ -25,6 +25,6 @@ public class controller {
 
     @DeleteMapping("/hello")
     public String sayDelete() {
-        return "Hello from DELETE!";
+        return "Hello from DELETEE!";
     }
 }
